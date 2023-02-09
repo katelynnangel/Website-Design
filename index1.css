@@ -1,0 +1,183 @@
+:root {
+    --dark-blue-color: #0c6980;
+    --light-blue-color: #b1d4e0;
+    --dark-color: #000000;
+    --light-color: #ffffff;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%
+    font-family: "Lora", seriff;
+    justity-content: flex;
+    
+}
+
+.container {
+max width: 80%;
+margin: 0 auto;
+position: absolute;
+background: transparent;
+width: 100%;
+}
+
+
+/* Header */
+
+header {
+    background: #ffffff;
+}
+
+header::after{
+    content: '';
+    displat: table;
+    clear: both;
+}
+
+logo {
+    float: left;
+    padding: 0;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+display: inline-block;
+margin-left: 74px;
+padding-top: 10px;
+margin-right: 50px;
+
+position: relative
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+nav a:hover {
+color: #000000
+}
+
+nav a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: #ffffff;
+
+    position: absolute;
+    top: 0;
+    width: 0%;
+}
+
+nav a:hover::before {
+    width: 100%;
+}
+
+/* End of Navigation */
+
+/* Banner */
+
+.Banner {
+background: #ffffff
+text-align: center;
+}
+
+.Banner-img {
+    width: 100%;
+    position: center;
+    overflow: hidden;
+}
+
+.Banner-header {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 60px;
+color: #0c6980;
+position: relative;
+top: -450px;
+padding-top: 30px;
+margin-left: 8%
+
+}
+
+.btn {
+    margin: 60px;
+    padding: 20px;
+    background: #ffffff;
+    font-weight: bold;
+    width: 120px;
+    text-align: center;
+    font-style: normal;
+    font-family: "Lora";
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: none;
+    color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/* End of Banner */
+
+/* Welcome */
+
+.black {
+    color: #000000
+    width: 100%;
+}
+
+.welcome {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 60px;
+color: #000000;
+position: relative;
+top: -350px;
+padding-top: 30px;
+margin-left: 50%
+}
+
+.par {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 60px;
+color: #000000;
+position: relative;
+top: -200px;
+margin-left: 50% 
+}
+
+/* End of Welcome */
