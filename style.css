@@ -154,3 +154,10 @@ background-color: #ff6600;
     left: 47px;
 top: 703px;
 }
+
+.orange-heading {
+font-family: "Lora";
+   font-size: 16px;
+    text-decoration: none;
+    color: #000000;
+}
