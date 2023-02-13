@@ -1,6 +1,6 @@
 :root {
     --dark-blue-color: #0c6980;
-    --light-blue-color: #b1d4e0;
+    --Orange: #ff6600;
     --dark-color: #000000;
     --light-color: #ffffff;
 }
@@ -113,7 +113,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 35px;
 line-height: 60px;
-color: #0c6980;
+color: #ff6600;
 position: relative;
 top: -450px;
 padding-top: 30px;
