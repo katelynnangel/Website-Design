@@ -153,8 +153,52 @@ background-color: #ff6600;
     height: 350px;
     width: 100%;
     font-family: "Lora";
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     text-align: center;
 }
 
+.mix {
+    background: linear-gradient(180deg, #FF6600 0%, #F29242 32.29%, #0C6980 100%);
+    margin-top: -400px;
+    height: 350px;
+    width: 100%;
+    font-family: "Lora";
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+    .blue {
+    background-color: #0C6980;
+    margin-top: -400px;
+    height: 350px;
+    width: 100%;
+    font-family: "Lora";
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center; 
+
+}
+        
+.mix1 {
+    background: linear-gradient(180deg, #0C6980 0%, #FFFDFD 100%);
+    margin-top: -400px;
+    height: 350px;
+    width: 100%;
+    font-family: "Lora";
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.white {
+    background-color: #ffffff
+    margin-top: -400px;
+    height: 350px;
+    width: 100%;
+    font-family: "Lora";
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
