@@ -148,36 +148,3 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 
 /* End of Banner */
 
-/* Welcome */
-
-.black {
-    color: #000000
-    width: 100%;
-}
-
-.welcome {
-font-family: 'Lora';
-font-style: normal;
-font-weight: 500;
-font-size: 25px;
-line-height: 60px;
-color: #000000;
-position: relative;
-top: -350px;
-padding-top: 30px;
-margin-left: 50%
-}
-
-.par {
-font-family: 'Lora';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 60px;
-color: #000000;
-position: relative;
-top: -400px;
-margin-left: 50% 
-}
-
-/* End of Welcome */
