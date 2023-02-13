@@ -1,1 +1,95 @@
+:root {
+    --dark-blue-color: #0c6980;
+    --light-blue-color: #b1d4e0;
+    --dark-color: #000000;
+    --light-color: #ffffff;
+}
 
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%
+    font-family: "Lora", seriff;
+    justity-content: flex;
+    
+}
+
+.container {
+max width: 80%;
+margin: 0 auto;
+position: absolute;
+background: transparent;
+width: 100%;
+}
+
+
+/* Header */
+
+header {
+    background: #ffffff;
+}
+
+header::after{
+    content: '';
+    displat: table;
+    clear: both;
+}
+
+logo {
+    float: left;
+    padding: 0;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+display: inline-block;
+margin-left: 74px;
+padding-top: 10px;
+margin-right: 50px;
+
+position: relative
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+nav a:hover {
+color: #000000
+}
+
+nav a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: #ffffff;
+
+    position: absolute;
+    top: 0;
+    width: 0%;
+}
+
+nav a:hover::before {
+    width: 100%;
+}
+
+/* End of Navigation */
