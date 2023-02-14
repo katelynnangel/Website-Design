@@ -165,7 +165,7 @@ position: absolute;
 width: 318px;
 height: 309px;
 left: 136px;
-top: 890px;
+margin-top: 600px;
 }
 
 step2{
@@ -173,7 +173,7 @@ position: absolute;
 width: 318px;
 height: 309px;
 left: 563px;
-top: 890px;
+margin-top: 600px;
 }
 
 step3 {
@@ -181,7 +181,7 @@ position: absolute;
 width: 318px;
 height: 309px;
 left: 992px;
-top: 890px;
+margin-top: 600px;
 }
 
 .mix1 {
