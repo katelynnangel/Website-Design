@@ -181,10 +181,11 @@ color: #000000;
     margin-bottom: 300px;
     text-align: left;
     float: right;
+    margin-left: 20%;
 }
 
 .rect {
 float: right;
     margin-top: 20px;
-    margin-right: 20%;
+    margin-right: 8%;
 }
