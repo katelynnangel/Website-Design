@@ -177,7 +177,7 @@ font-weight: 500;
 font-size: 18px;
 line-height: 60px;
 color: #000000;
-    margin-top: -400px;
+    margin-top: 20px;
     margin-bottom: 300px;
     text-align: left;
     float: right;
@@ -188,4 +188,16 @@ color: #000000;
 float: right;
     margin-top: 20px;
     margin-right: 8%;
+}
+
+.ora {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 60px;
+color: #ff6600;
+    margin-top: -400px;
+    margin-bottom: 300px;
+    text-align: center;
 }
