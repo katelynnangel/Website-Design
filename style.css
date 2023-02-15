@@ -154,10 +154,12 @@ font-style: normal;
 font-weight: 500;
 font-size: 30px;
 line-height: 60px;
-color: #000000;
+color: #ff6600;
     margin-top: -400px;
     margin-bottom: 300px;
     text-align: center;
+    float: Left;
+    margin-left: 10px;
 }
 
 .step1 {
@@ -165,7 +167,7 @@ position: absolute;
 width: 318px;
 height: 309px;
 margin-top: 20px;
-    margin-left: 20%;
+    margin-left: 15%;
 }
 
 
