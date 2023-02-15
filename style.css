@@ -164,24 +164,24 @@ color: #000000;
 position: absolute;
 width: 318px;
 height: 309px;
-left: 136px;
 margin-top: 20px;
+    margin-left: 20%;
 }
 
-step2{
+.step2  {
 position: absolute;
 width: 318px;
 height: 309px;
-left: 563px;
-margin-top: 1200px;
+margin-top: 20px;
+    margin-left: 20%;
 }
 
-step3 {
+.step3 {
 position: absolute;
 width: 318px;
 height: 309px;
-left: 992px;
-margin-top: 1200px;
+margin-top: 20px;
+    margin-left: 20%;
 }
 
 
