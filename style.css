@@ -174,13 +174,12 @@ margin-top: 20px;
 font-family: 'Lora';
 font-style: normal;
 font-weight: 500;
-font-size: 20px;
+font-size: 18px;
 line-height: 60px;
 color: #000000;
     margin-top: -400px;
     margin-bottom: 300px;
-    text-align: center;
+    text-align: left;
     float: right;
-    margin-left: 8%;
 }
 
