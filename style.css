@@ -184,8 +184,11 @@ float: right
     color: #0c6980
 }
 
-.portrait {
-
+.rectangle {
+position: relative;
 }
 
-.
+.portrait {
+position: absolute;
+}
+
