@@ -181,14 +181,13 @@ float: right
     font-size: 18px;
     font-weight: 500;
     line-height: 40px;
-     margin-left: 80%;
+     margin-left: 50%;
     color: #0c6980
       
 }
 
 .rectangle {
 position: relative;
-    margin-right: 4%;
 }
 
 .portrait {
