@@ -181,18 +181,21 @@ float: right
     font-size: 18px;
     font-weight: 500;
     line-height: 40px;
+    margin-top: 20px;
     color: #0c6980
-        margin-top: -450px;
+        
       
 }
 
 .rectangle {
 position: relative;
+    padding-top: 10px;
     margin-left: 55%;
 }
 
 .portrait {
 position: absolute;
+    padding-top: 20px;
     margin-top: -400px;
 }
 
