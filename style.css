@@ -152,14 +152,13 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 font-family: 'Lora';
 font-style: normal;
 font-weight: 500;
-font-size: 30px;
+font-size: 25px;
 line-height: 60px;
 color: #ff6600;
     margin-top: -400px;
     margin-bottom: 300px;
     text-align: center;
-    float: Left;
-    margin-left: 8%;
+    margin-left: 4%;
 }
 
 
