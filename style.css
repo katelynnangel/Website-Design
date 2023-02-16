@@ -174,37 +174,9 @@ color: #ff6600;
         text-align: Left
 }
 
-.welcomesection {
-float: right
-      font-family: "Lora";
-    font-style: normal;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 40px;
-    margin-top: 20px;
-    color: #0c6980
-        
-      
-}
-
 .rectangle {
 position: relative;
     padding-top: 10px;
     margin-left: 55%;
 }
 
-.portrait {
-position: absolute;
-    padding-top: 20px;
-}
-
-.why {
-     font-family: "Lora";
-    font-style: normal;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 40px;
-text-align: center;
-    position: relative;
-    top-margin: 20px;
-}
