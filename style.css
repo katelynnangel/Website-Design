@@ -160,7 +160,35 @@ color: #ff6600;
     margin-left: 4%;
 }
 
-.steps {
+.step1 {
+    margin-left: 4%
+        font-family: "Lora";
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
+    float: left;
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 4%;
+        text-align: Left
+}
+
+.step2 {
+    margin-left: 4%
+        font-family: "Lora";
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
+    float: left;
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 4%;
+        text-align: Left
+}
+
+.step3 {
     margin-left: 4%
         font-family: "Lora";
     font-style: normal;
