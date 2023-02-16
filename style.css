@@ -185,9 +185,8 @@ color: #000000;
 }
 
 .rect {
-float: right;
     margin-top: 20px;
-    margin-right: 8%;
+    right: 8%;
     text-align: center;
     float: right;
 }
