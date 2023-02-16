@@ -167,10 +167,19 @@ color: #ff6600;
     font-size: 18px;
     font-weight: 500;
     line-height: 40px;
-    float: right;
+    float: left;
     color: #000000;
     margin-top: 20px;
     margin-left: 4%;
         text-align: Left
 }
 
+.welcomesection {
+float: right
+      font-family: "Lora";
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #0c6980
+}
