@@ -181,7 +181,9 @@ float: right
     font-size: 18px;
     font-weight: 500;
     line-height: 40px;
+     margin-right: 4%;
     color: #0c6980
+      
 }
 
 .rectangle {
