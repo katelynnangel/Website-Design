@@ -192,6 +192,7 @@ position: relative;
 
 .portrait {
 position: absolute;
+    margin-top: -400px;
 }
 
 .why {
