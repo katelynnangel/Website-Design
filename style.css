@@ -165,6 +165,8 @@ color: #ff6600;
         font-family: "Lora";
     font-style: normal;
     font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
     float: left;
     color: #000000;
     margin-top: 20px;
