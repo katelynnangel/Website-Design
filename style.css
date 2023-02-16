@@ -210,6 +210,10 @@ width: 100%
     
 }
 
+.arrow {
+item-align: center;
+}
+
 .contact {
 font-family: 'Lora';
 font-style: normal;
@@ -249,9 +253,7 @@ color: #ffffff;
     text-align: center;
     width: 100%;
     margin-bottom: 0px;
+    padding-bottom: 0px;
     
 }
 
-.arrow {
-item-align: center;
-}
