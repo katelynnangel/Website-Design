@@ -177,11 +177,10 @@ font-weight: 500;
 font-size: 18px;
 line-height: 60px;
 color: #000000;
-    margin-top: -800px;
+    margin-top: 20px;
     margin-bottom: 300px;
     text-align: left;
-    float: right;
-    margin-left: 20%;
+    margin-left: 30%;
 }
 
 .rect {
