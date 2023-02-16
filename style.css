@@ -188,6 +188,7 @@ float: right
 
 .rectangle {
 position: relative;
+    margin-right: 4%;
 }
 
 .portrait {
