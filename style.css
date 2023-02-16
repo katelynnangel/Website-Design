@@ -162,5 +162,12 @@ color: #ff6600;
 
 .steps {
     margin-left: 4%
+        font-family: "Lora";
+    font-style: normal;
+    font-size: 18px;
+    float: left;
+    color: #000000;
+    margin-top: 20px;
+        text-align: Left
 }
 
