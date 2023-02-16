@@ -195,3 +195,13 @@ position: relative;
 position: absolute;
 }
 
+.why {
+     font-family: "Lora";
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40px;
+text-align: center;
+    position: relative;
+    top-margin: 20px;
+}
