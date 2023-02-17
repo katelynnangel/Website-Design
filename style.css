@@ -175,6 +175,7 @@ color: #ff6600;
     color: #000000;
     margin-top: 20px;
     margin-left: 4%;
+    float: right;
 }
 
 .step2 {
@@ -192,6 +193,7 @@ color: #ff6600;
     color: #000000;
     margin-top: -600px;
     margin-left: 4%;
+    float: right;
 }
 
 .step3 {
@@ -209,6 +211,7 @@ color: #ff6600;
     color: #000000;
     margin-top: 20px;
     margin-left: 4%;
+    float: right;
 }
 
 .rectangle {
