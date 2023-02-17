@@ -161,6 +161,11 @@ color: #ff6600;
 }
 
 .step1 {
+    margin-top: 20px;
+    margin-left: 4%;
+}
+
+.Design {
     margin-left: 4%
         font-family: "Lora";
     font-style: normal;
@@ -173,6 +178,11 @@ color: #ff6600;
 }
 
 .step2 {
+    margin-top: 20px;
+    margin-left: 4%;
+}
+
+.Coding {
     margin-left: 4%
         font-family: "Lora";
     font-style: normal;
@@ -185,6 +195,11 @@ color: #ff6600;
 }
 
 .step3 {
+    margin-top: 20px;
+    margin-left: 4%;
+}
+
+.Marketing {
     margin-left: 4%
         font-family: "Lora";
     font-style: normal;
