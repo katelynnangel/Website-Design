@@ -166,7 +166,6 @@ color: #ff6600;
 }
 
 .Design {
-    margin-left: 4%
         font-family: "Lora";
     font-style: normal;
     font-size: 18px;
@@ -174,7 +173,6 @@ color: #ff6600;
     line-height: 40px;
     color: #000000;
     margin-top: 20px;
-    margin-left: 4%;
     float: right;
 }
 
@@ -184,7 +182,6 @@ color: #ff6600;
 }
 
 .Coding {
-    margin-left: 4%
         font-family: "Lora";
     font-style: normal;
     font-size: 18px;
@@ -192,7 +189,6 @@ color: #ff6600;
     line-height: 40px;
     color: #000000;
     margin-top: -600px;
-    margin-left: 4%;
     float: right;
 }
 
@@ -212,13 +208,14 @@ color: #ff6600;
     margin-top: 20px;
     margin-left: 4%;
     float: right;
+    padding-left: 10px;
 }
 
 .rectangle {
 position: relative;
     padding-top: 10px;
     margin-left: 55%;
-    margin-top: -1600px;
+    margin-top: -2000px;
     margin-left: 60%;
 }
 
